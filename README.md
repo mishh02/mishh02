@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since the dawn of time<br>📚 I'm currently learning Data Structures and Web Development<br>🎯</p>
+<p align="left">📚 I'm currently learning Data Structures and Web Development<br></p>
 
 ###
 
